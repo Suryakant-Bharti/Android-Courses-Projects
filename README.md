@@ -1,7 +1,7 @@
 # My-Android-Courses-Projects
 An archive/library of all Android sample apps and projects created during taking various online courses since Aug-2017.
 
-|      Demo     |  Description  |
+| Prooject Demo |  Description  |
 | ------------- | ------------- |
 | <img src="https://user-images.githubusercontent.com/2780145/44610185-c4d86e80-a818-11e8-99f1-0ca07e7b32bf.gif" width="100%"/> | **LANGUAGE LEARNING APP** : <br>This App teavhes you the basics of Miwok Language (a native american language from california region). REST API to fetch live earthquakes from endd <br><br><img src="https://user-images.githubusercontent.com/2780145/44580830-194c0180-a7b9-11e8-9dc8-61d67db4944d.png" width="50%"/> | 
 | . | . |
