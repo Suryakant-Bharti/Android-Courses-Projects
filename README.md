@@ -1,5 +1,5 @@
 # My-Android-Courses-Projects
-**NOTE: Work is in progress - links are not working yet :P**
+**NOTE: Work is in progress - links are not working yet. Star it now, links will come by 31st August :P**
 
 An archive/library of all Android sample apps and projects created during taking various online courses since Aug-2017.
 
