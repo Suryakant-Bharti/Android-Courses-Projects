@@ -3,9 +3,8 @@
 
 An archive/library of all Android sample apps and projects created during taking various online courses since Aug-2017.
 
-| Project Demo  |  Description  |
+|    **DEMO**   |**DESCRIPTION**|
 | ------------- | ------------- |
-| . | . |
 | <img src="https://user-images.githubusercontent.com/2780145/44610185-c4d86e80-a818-11e8-99f1-0ca07e7b32bf.gif" width="100%"/> | **1. LANGUAGE LEARNING APP** : <br>This App teaches you the basics of Miwok Language (a native american language from california region). REST API to fetch live earthquakes from endd <br><br>**Concept Used:**<br>Fragments, ViewPager<br><br>**Note:** This project doesn't need any unique identifiers, just download and run! 😃<br><br><img src="https://user-images.githubusercontent.com/2780145/44580830-194c0180-a7b9-11e8-9dc8-61d67db4944d.png" width="50%"/><br><img src="https://user-images.githubusercontent.com/2780145/44615690-1b1bd080-a85e-11e8-9141-ef063251404e.png" width="50%"/> | 
 | . | . |
 | <img src="https://user-images.githubusercontent.com/2780145/44578925-72646700-a7b2-11e8-8c62-2a456409e031.gif" width="100%"/> | **2. LIVE EARTHQUAKE APP** : <br>This App uses USGS REST API to fetch live earthquakes from around the world. REST API to fetch live earthquakes from around the world. Information. Information. <br><br>**Concepts Used:**<br>JSON Parsing, HTTP Networking, REST API<br><br>**Note:** This project doesn't need any unique identifiers, just download and run! 😃<br><br><img src="https://user-images.githubusercontent.com/2780145/44580830-194c0180-a7b9-11e8-9dc8-61d67db4944d.png" width="50%"/><br><img src="https://user-images.githubusercontent.com/2780145/44615690-1b1bd080-a85e-11e8-9141-ef063251404e.png" width="50%"/> | 
