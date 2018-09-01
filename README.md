@@ -24,4 +24,6 @@ An archive/library of all Android sample apps and projects created during taking
 | . | . |
 | <img src="https://user-images.githubusercontent.com/2780145/44944078-52eebf00-adee-11e8-9721-e48c29e6fe8f.gif" width="100%"/> | **9. MINIMAL TWITTER APP** :<br> This App uses SQLite Datyabase to store and fetch Pet Information. This App uses SQLite Datyabase to store and fetch Pet Information. Information. Information. <br><br>**Concepts Used:**<br>Firebase, FCM, Authentication, FirebaseUI, Realtime Database, Cloud Storage, Analytics, Remote Config<br><br>**Difficultly:** Advanced<br><br>**Note:** This project needs: 🤔<br>1. google-services.json configuration file<br>2. setup firebase console authentication<br>3. setup firebase console realtime database<br>4. setup firebase console cloud storage<br>5. setup firebase console remote config<br>6. setup firebase console google analytics<br><br><img src="https://user-images.githubusercontent.com/2780145/44580830-194c0180-a7b9-11e8-9dc8-61d67db4944d.png" width="45%"/><br><img src="https://user-images.githubusercontent.com/2780145/44615690-1b1bd080-a85e-11e8-9141-ef063251404e.png" width="45%"/> | 
 
-Anyone can learn to make all these and many other cool projects at Udacity. It is super easy and fun!!
+Anyone can learn to make all these and many other cool projects by taking Online Courses. It is super easy* and fun*!!
+
+**terms and conditions apply* 😜
