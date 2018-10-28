@@ -1,6 +1,6 @@
 # My-Android-Courses-Projects
 
-**NOTE: Work is in Progress - Source code links will come by 15th Oct :)**
+**NOTE: Work is in Progress - Source code links will come by 10th Nov :)**
 
 An archive/library of all Android sample apps and projects created during taking various online courses since Aug-2017.
  
