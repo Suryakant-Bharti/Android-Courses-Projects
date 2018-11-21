@@ -12,7 +12,7 @@ This repository contains important materials and information related to Android 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
 
-*[[SAMPLE APPS - List of Example Mini Apps for each topic]](_moreReadMe/androidDevCore)*
+*[[SAMPLE APPS - List of Example Mini Apps for each topic]](_moreReadMe/android_dev_core)*
 
 ### User Interfaces and Inputs
 
