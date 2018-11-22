@@ -126,7 +126,7 @@ All the information and material about the android development that I've collect
 
 This repository is mostly a collection of collections of information related to android development.
 
-- ### [Associate-Android-Developer-Certification](_moreReadMe/Associate-Android-Developer-Certification)
+- ### [Associate-Android-Developer-Certification](_moreReadMe/associate_android_developer_certification)
 
 - ### [CodePath-Android-Cliffnotes](https://github.com/codepath/android_guides/wiki)
 
