@@ -5,11 +5,13 @@
 
 This repository contains important materials and information related to Android App Development. 
 
-## Core Java Fundamentals
+## Learn Core Java
 
-[My Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
+[Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
 
-## Kotlin Fundamentals
+## Learn Kotlin Fundamentals
+
+
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
