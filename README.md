@@ -11,7 +11,7 @@ This repository contains important materials and information related to Android 
 
 ## Learn Kotlin Fundamentals
 
-
+[From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
