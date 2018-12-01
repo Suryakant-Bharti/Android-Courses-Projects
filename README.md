@@ -113,8 +113,6 @@ https://cloud.google.com/vision/
 
 ## UI Libraries
 
-## Kotlin
-
 ## Apps
 
 - **To-Do List** - Simple and Clean To-do List App using Best practices - MVP, Material Design. SQLite + App Widget
