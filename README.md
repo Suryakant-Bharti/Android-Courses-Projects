@@ -9,7 +9,7 @@ This repository contains important materials and information related to Android 
 
 [Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
 
-## Learn Kotlin Fundamentals
+## Learn Kotlin
 
 [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
