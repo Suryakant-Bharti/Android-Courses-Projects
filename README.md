@@ -13,6 +13,8 @@ This repository contains important materials and information related to Android 
 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
+## Architecture Components
+
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
 
