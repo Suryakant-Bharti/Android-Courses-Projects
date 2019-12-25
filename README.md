@@ -15,6 +15,8 @@ This repository contains important materials and information related to Android 
 
 ## Architecture Components
 
+- WorkManager
+
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
 
