@@ -33,9 +33,28 @@ This repository contains important materials and information related to Android 
 - Fresco
 - 
 
-## [5] Firebase Features
+## [5] Firebase Platform
 
 - Authentication
+- Realtime Database
+- Cloud Storage
+- Cloud Firestore
+- ML Kit
+
+- Crashlytics
+- Analytics
+- Performance Monitoring
+- Test Lab
+- App Distribution
+
+- Dynamic Links
+- Remote Config
+- In-App Messaging
+- A/B Testing
+- Preditions
+
+- Cloud Messaging
+- Cloud Functions
 
 ## [6] App Testing
 
