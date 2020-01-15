@@ -87,3 +87,14 @@ Website Reference - Udacity, Udemy, Google Samples, CodePath Android Cliff Notes
 - #### My Garden App
 
   App Widgets
+  
+### Google APIs
+
+- #### Emojify Me App
+
+  Play Services - Mobile Vision Face Recognition
+
+- #### Squawker App
+
+  Firebase Messaging Cloud (FCM), Firebase Notifications
+  
