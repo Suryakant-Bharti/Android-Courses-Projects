@@ -47,7 +47,11 @@ This repository contains important materials and information related to Android 
 - Lifecycles
 - Navigation
 
-## [6] Networking & IO Libraries
+## [6] Architecture Blueprints
+
+
+
+## [7] Networking & IO Libraries
 
 - Retrofit 2
 - Volley
@@ -56,7 +60,7 @@ This repository contains important materials and information related to Android 
 - Fresco
 - 
 
-## [7] Firebase Platform
+## [8] Firebase Platform
 
 - Authentication
 - Realtime Database
@@ -79,16 +83,16 @@ This repository contains important materials and information related to Android 
 - Cloud Messaging
 - Cloud Functions
 
-## [8] App Testing
+## [9] App Testing
 
 - JUnit 4 (No android support for junit 5 yet)
 -
 
 
-## [9] Threads & Background
+## [10] Threads & Background
 
 
-## [10] Advanced Libraries
+## [11] Advanced Libraries
 
 - RxJava 2
 - RxAndroid 2
