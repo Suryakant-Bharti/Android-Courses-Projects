@@ -85,6 +85,7 @@ This repository contains important materials and information related to Android 
 
 ## [8] Google Play Services
 *Ref - https://developers.google.com/android/guides/setup*
+*Ref - https://developers.google.com/android/reference/packages*
 
 ## [9] Android Enhanced Features
 
@@ -146,7 +147,8 @@ This repository contains important materials and information related to Android 
 - Tensorflow Lite
 
 ## [23] Google Cloud Platform
-
+*Ref - https://cloud.google.com/products*
+*Ref - https://cloud.google.com/customers*
 
 
 ## Core App Development
@@ -212,12 +214,6 @@ Implement important "Architectural Patterns" like MVP, MMVM, etc.  [Android-5/6]
 Implement important "RESTful APIs" like Play Services, Firebase, GCP, etc. [Android-3/6] 
 
 Code Samples for learning various Nice APIs useful to Android Development.
-
-### Google Cloud Platform
-
-https://cloud.google.com/products/
-
-https://cloud.google.com/customers/directory/
 
 https://cloud.google.com/vision/
 
