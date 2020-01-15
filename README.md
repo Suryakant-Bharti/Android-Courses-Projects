@@ -254,7 +254,7 @@ This repository is mostly a collection of collections of information related to 
 
 **NOTE :**
 
-    I will keep adding more important information to this Repository throughout 2018. 
+    I will keep adding more important information to this Repository throughout 2020. 
 Happy Learning! :smiley:
 
 .
