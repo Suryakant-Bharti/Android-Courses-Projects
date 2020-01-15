@@ -28,12 +28,22 @@ This repository contains important materials and information related to Android 
 
 - Retrofit 2
 - Volley
+- Glide
+- Picasso
+- Fresco
+- 
 
-## [5] Advanced Libraries
+## [5] Firebase Features
+
+- Authentication
+
+
+## [6] Advanced Libraries
 
 - RxJava 2
 - RxAndroid 2
 - Dagger 2
+- EventBus
 
 
 ## Core App Development
@@ -79,14 +89,6 @@ UI Automator is a UI testing framework suitable for cross-app functional UI test
 Implement important "Third-Party Libraries" like RxJava, Dagger, Retrofit, etc. [Android-4/6] 
 
 Code Samples for learning various Nice Third-Party Libraries useful in Android Development.
-
-### RxJava
-
-### Dagger
-
-### Retrofit
-
-### EventBus
 
 ## Essential Tools
 
