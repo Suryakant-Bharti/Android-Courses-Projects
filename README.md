@@ -5,15 +5,15 @@
 
 This repository contains important materials and information related to Android App Development. 
 
-## [1] Learn Core Java
+## [1] Java Language
 
 - [Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
 
-## [2] Learn Kotlin
+## [2] Kotlin Language
 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
-## [3] Google Architecture Components
+## [3] Jetpack Architecture Components
 
 - Room
 - LiveData
@@ -23,6 +23,18 @@ This repository contains important materials and information related to Android 
 - DataBinding
 - Lifecycles
 - Navigation
+
+## [4] Networking Libraries
+
+- Retrofit 2
+- Volley
+
+## [3] Advanced Architecture Libraries
+
+- RxJava 2
+- RxAndroid 2
+- Dagger 2
+
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
