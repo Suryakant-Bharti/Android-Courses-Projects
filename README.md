@@ -18,6 +18,8 @@ This repository contains important materials and information related to Android 
 ## [2] Kotlin Language
 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
+- [From Java to Kotlin (Fabio)](https://github.com/fabiomsr/from-java-to-kotlin)
+- [Kotlin Cheatsheet (DevHints)](https://devhints.io/kotlin)
 
 ## [3] Android Main Components
 
