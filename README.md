@@ -20,6 +20,7 @@ This repository contains important materials and information related to Android 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 - [From Java to Kotlin (Fabio)](https://github.com/fabiomsr/from-java-to-kotlin)
 - [Kotlin Cheatsheet (DevHints)](https://devhints.io/kotlin)
+- [Kotlin Cheatsheet (Kotlin Academy)](https://blog.kotlin-academy.com/kotlin-cheat-sheet-1137588c75a)
 
 ## [3] Android Main Components
 
@@ -63,6 +64,7 @@ This repository contains important materials and information related to Android 
 - 
 
 ## [8] Firebase Platform
+*Ref - https://firebase.google.com*
 
 - Authentication
 - Realtime Database
@@ -85,14 +87,12 @@ This repository contains important materials and information related to Android 
 - Cloud Messaging
 - Cloud Functions
 
-## [9] App Testing
+## [9] Threads & Background
+
+## [10] App Testing
 
 - JUnit 4 (No android support for junit 5 yet)
 -
-
-
-## [10] Threads & Background
-
 
 ## [11] Advanced Libraries
 
@@ -169,14 +169,6 @@ Code Samples for learning various Nice APIs useful to Android Development.
 ### Google Play Services
 
 https://developers.google.com/android/guides/setup
-
-**Emojify Me App** - Mobile Vision Face Recognition
-
-### Google Firebase
-
-https://firebase.google.com/
-
-**Squawker App** - Firebase Messaging Cloud (FCM), Firebase Notifications
 
 ### Google Cloud Platform
 
