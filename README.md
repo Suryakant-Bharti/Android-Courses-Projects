@@ -6,7 +6,6 @@
 This repository contains important materials and information related to Android App Development. 
 
 ## [1] The Java Language
-[Repository for Learning All Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
 
 - [Fundamentals & Object Oriented Programming](https://github.com/Suryakant-Bharti/Important-Java-Concepts#1-java---fundamentals--oops-done)
 - [Collections, Generics & Exception Handling](https://github.com/Suryakant-Bharti/Important-Java-Concepts#2-java---generics-collections--exception-handling-done)
@@ -14,7 +13,7 @@ This repository contains important materials and information related to Android 
 - [Threads & Concurrency](https://github.com/Suryakant-Bharti/Important-Java-Concepts/blob/master/README.md#4-java---threads--concurrency-wip)
 - [Software Design Patterns](https://github.com/Suryakant-Bharti/Important-Java-Concepts/blob/master/README.md#5-software-design-wip)
 - [Data Structures & Algorithms](https://github.com/Suryakant-Bharti/Important-Java-Concepts/blob/master/README.md#10-data-structures--algorithms-wip)
-
+- [Common Coding Questions](https://github.com/Suryakant-Bharti/Coding-Interview-Questions)
 
 ## [2] Kotlin Language
 
