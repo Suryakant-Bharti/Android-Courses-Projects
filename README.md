@@ -46,7 +46,7 @@ This repository contains important materials and information related to Android 
 - Lifecycles
 - Navigation
 
-## [5] Architecture Blueprints
+## [5] Architectural Patterns/Blueprints
 
 
 
@@ -84,6 +84,7 @@ This repository contains important materials and information related to Android 
 - Cloud Functions
 
 ## [8] Google Play Services
+*Ref - https://developers.google.com/android/guides/setup*
 
 ## [9] Android Enhanced Features
 
@@ -101,28 +102,37 @@ This repository contains important materials and information related to Android 
 - Dagger 2
 - EventBus
 
-## [13] Android In-Depth UI Components
+## [13] 
+
+
+
+## [14] Android In-Depth UI Components
 
 - XML
 
-## [14] Material Design Components
+## [15] Material Design Components
 
-## [15] Great UI Libraries
+## [16] Great UI Libraries
 
-## [16] Mobile UI Design
+## [17] Mobile UI Design
 
-## [17] Google Cloud Platform
 
-## [18] Advanced Features in Android
+
+## [18] Android Backend
+
+- REST APIs
+- Microservices
+
+## [19] Advanced Features in Android
 
 - Data Analytics
 - Artificail Intelligence
 - Machine Learning
 - Tensorflow Lite
 
-## [20] Android Backend
-- REST APIs
-- Microservices
+## [20] Google Cloud Platform
+
+
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
@@ -187,10 +197,6 @@ Implement important "Architectural Patterns" like MVP, MMVM, etc.  [Android-5/6]
 Implement important "RESTful APIs" like Play Services, Firebase, GCP, etc. [Android-3/6] 
 
 Code Samples for learning various Nice APIs useful to Android Development.
-
-### Google Play Services
-
-https://developers.google.com/android/guides/setup
 
 ### Google Cloud Platform
 
