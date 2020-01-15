@@ -29,7 +29,7 @@ This repository contains important materials and information related to Android 
 - Retrofit 2
 - Volley
 
-## [3] Advanced Architecture Libraries
+## [5] Advanced Libraries
 
 - RxJava 2
 - RxAndroid 2
