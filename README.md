@@ -13,7 +13,24 @@ This repository contains important materials and information related to Android 
 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
-## [3] Jetpack Architecture Components
+## [3] Android Main Components
+
+- Activity (core)
+- Intent
+- ListView
+- RecyclerView
+- AsyncTask
+- Service (core)
+- Content Provider (core)
+- Broadcast Receiver (core)
+- Loaders
+- SQLiteOpenHelper/Cursor...
+
+## [4] Android UI Components
+
+- XML
+
+## [5] Jetpack Architecture Components
 
 - Room
 - LiveData
@@ -24,7 +41,7 @@ This repository contains important materials and information related to Android 
 - Lifecycles
 - Navigation
 
-## [4] Networking & IO Libraries
+## [6] Networking & IO Libraries
 
 - Retrofit 2
 - Volley
@@ -33,7 +50,7 @@ This repository contains important materials and information related to Android 
 - Fresco
 - 
 
-## [5] Firebase Platform
+## [7] Firebase Platform
 
 - Authentication
 - Realtime Database
@@ -56,13 +73,16 @@ This repository contains important materials and information related to Android 
 - Cloud Messaging
 - Cloud Functions
 
-## [6] App Testing
+## [8] App Testing
 
-- JUnit 4 (No android support for JUnit 5 yet)
+- JUnit 4 (No android support for junit 5 yet)
 -
 
 
-## [7] Advanced Libraries
+## [9] Threads & Background
+
+
+## [10] Advanced Libraries
 
 - RxJava 2
 - RxAndroid 2
