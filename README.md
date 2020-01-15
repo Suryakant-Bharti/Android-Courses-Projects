@@ -35,11 +35,7 @@ This repository contains important materials and information related to Android 
 - Loaders
 - SQLiteOpenHelper/Cursor...
 
-## [4] Android UI Components
-
-- XML
-
-## [5] Jetpack Architecture Components
+## [4] Jetpack Architecture Components
 
 - Room
 - LiveData
@@ -50,11 +46,11 @@ This repository contains important materials and information related to Android 
 - Lifecycles
 - Navigation
 
-## [6] Architecture Blueprints
+## [5] Architecture Blueprints
 
 
 
-## [7] Networking & IO Libraries
+## [6] Networking & IO Libraries
 
 - Retrofit 2
 - Volley
@@ -63,7 +59,7 @@ This repository contains important materials and information related to Android 
 - Fresco
 - 
 
-## [8] Firebase Platform
+## [7] Firebase Platform
 *Ref - https://firebase.google.com*
 
 - Authentication
@@ -87,20 +83,46 @@ This repository contains important materials and information related to Android 
 - Cloud Messaging
 - Cloud Functions
 
-## [9] Threads & Background
+## [8] Google Play Services
 
-## [10] App Testing
+## [9] Android Enhanced Features
+
+## [10] Threads & Background
+
+## [11] App Testing
 
 - JUnit 4 (No android support for junit 5 yet)
 -
 
-## [11] Advanced Libraries
+## [12] Advanced Essential Libraries
 
 - RxJava 2
 - RxAndroid 2
 - Dagger 2
 - EventBus
 
+## [13] Android In-Depth UI Components
+
+- XML
+
+## [14] Material Design Components
+
+## [15] Great UI Libraries
+
+## [16] Mobile UI Design
+
+## [17] Google Cloud Platform
+
+## [18] Advanced Features in Android
+
+- Data Analytics
+- Artificail Intelligence
+- Machine Learning
+- Tensorflow Lite
+
+## [20] Android Backend
+- REST APIs
+- Microservices
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
