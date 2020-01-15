@@ -24,7 +24,7 @@ This repository contains important materials and information related to Android 
 - Lifecycles
 - Navigation
 
-## [4] Networking Libraries
+## [4] Networking & IO Libraries
 
 - Retrofit 2
 - Volley
@@ -37,8 +37,13 @@ This repository contains important materials and information related to Android 
 
 - Authentication
 
+## [6] App Testing
 
-## [6] Advanced Libraries
+- JUnit 4 (No android support for JUnit 5 yet)
+-
+
+
+## [7] Advanced Libraries
 
 - RxJava 2
 - RxAndroid 2
