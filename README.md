@@ -102,8 +102,14 @@ This repository contains important materials and information related to Android 
 - Dagger 2
 - EventBus
 
-## [13] 
-
+## [13] Important SDK Integrations
+- Facebook
+- Social
+- Payment
+- Storage
+- Entertainment
+- Advertisement
+- Other APIs
 
 
 ## [14] Android In-Depth UI Components
@@ -116,21 +122,30 @@ This repository contains important materials and information related to Android 
 
 ## [17] Mobile UI Design
 
+## [18] Android DevOps
 
-
-## [18] Android Backend
+## [19] Android Backend
 
 - REST APIs
 - Microservices
 
-## [19] Advanced Features in Android
+## [20] Android Studio
+
+- Tools
+- Plugins
+
+## [21] Helfpul Tools
+
+
+
+## [22] Data Science in Android
 
 - Data Analytics
 - Artificail Intelligence
 - Machine Learning
 - Tensorflow Lite
 
-## [20] Google Cloud Platform
+## [23] Google Cloud Platform
 
 
 
