@@ -7,15 +7,22 @@ This repository contains important materials and information related to Android 
 
 ## [1] Learn Core Java
 
-[Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
+- [Repository for Learning Important Java Concepts](https://github.com/Suryakant-Bharti/Important-Java-Concepts)
 
 ## [2] Learn Kotlin
 
 - [From Java to Kotlin (Mindorks)](https://github.com/MindorksOpenSource/from-java-to-kotlin)
 
-## [3] Architecture Components
+## [3] Google Architecture Components
 
+- Room
+- LiveData
+- ViewModel
 - WorkManager
+- Paging
+- DataBinding
+- Lifecycles
+- Navigation
 
 ## Core App Development
 Mini Apps to learn Activities, Services, Providers, Receivers, Intents, XML, JSON, REST, SQLite, etc. [Android-1/6]
